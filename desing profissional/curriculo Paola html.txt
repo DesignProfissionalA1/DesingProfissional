@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> CURRICULUM </title> 
+  <h1> CURRICULO </h1>
+  <h2> Dados pessoais </h2>
+    <p> Nome: Paola Victoria Matos Mota </p> 
+    <p> Data de nascimento : 27/11/1999 </p>
+  <p> Endereço:QR 506 Conjunto 13 Casa 06         samambaia sul</p>
+
+  
+   <h2> Formação: </h2>
+     <ul>
+       <li> Ensino medio completo </li>
+       <li> Cursando Analise de                    Desenvolvimento de sistemas </p>
+    </ul>
+  <h2> Experiencia Profissional: </h2>
+    <h3> Analista Militar: </h3>
+    <ul> 
+       <li> Geriu e manteve com sucesso um arquivo de documentos e registros militares para um programa militar ultra secreto </li>
+      <li> utilizou uma variedades de instrumentos de recolha e analise de informações para identificar potenciais riscos e ameaças.</li>
+  
+  </ul>
+
+  <h2> Habilidades </h2>
+ 
+    <ul>
+      
+      <li> Proativa </li>
+      <li> Aprendizado Continuo </li>
+      <li> Adaptativadade </li>
+      <li> Liderança </li>
+  </ul>
+    <h2> Idiomas </h2>
+   <ul> 
+  <li> Inlges Fluente </li>
+  <li> Frances Fluente </li>
+  <li> Espanhol intermediario </li>
+  <li> Coreano Intermediario </li> 
+     
+     </ul>
+  
+   <h2> Objetivo </h2>  
+      
+      <p> Busco novos desafios em minha carreira, pois acredito que o constante aprendizado é fundamental para o crescimento profissional. </p>
+  
+  <form>
+    <fieldset>
+        <legend> Informações adicionais </legend>
+      <label for="nome">  linkedin </label>
+      <input type="text" id="nome" name="nome" required>
+       <label for="nome">   Github   </label>
+      <input type="text" id="nome" name="nome" required>
+      
+  
+   </head>
+  </body>
+    </html>
